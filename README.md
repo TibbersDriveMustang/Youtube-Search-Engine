@@ -1,9 +1,9 @@
 # Youtube-Search-Engine
-1.Uses YouTube Data API v3
-2.Animated search box
-3.channelList and searchList methods
-4.FancyBox plugin to open videos
-5.Previous and next paging
+1.Uses YouTube Data API v3<br />
+2.Animated search box<br />
+3.channelList and searchList methods<br />
+4.FancyBox plugin to open videos<br />
+5.Previous and next paging<br />
 
 
 Start Page<br />
