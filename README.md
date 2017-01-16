@@ -1,13 +1,11 @@
 # Youtube-Search-Engine
-Start Page
-
-
+Start Page/n
 ![Alt text](/screenshot/UI.png?raw=true "Start Page")
-Searching
+Searching/n
 
 
 ![Alt text](/screenshot/Search.png?raw=true "Searching")
-Results to play
+Results to play/n
 
 
 ![Alt text](/screenshot/result.png?raw=true "Result")
